@@ -11,6 +11,7 @@ namespace CA200922_BGB_kedvvert_megegyszer
         static void Main(string[] args)
         {
             Console.WriteLine("asd");
+            Console.WriteLine("asd2");
         }
     }
 }
