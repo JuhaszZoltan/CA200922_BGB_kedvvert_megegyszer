@@ -11,9 +11,6 @@ namespace CA200922_BGB_kedvvert_megegyszer
         static Random rnd = new Random();
         static void Main(string[] args)
         {
-            Console.WriteLine("asd");
-            Console.WriteLine("asd2");
-
             for (int i = 0; i < 100; i++)
             {
                 Console.SetCursorPosition(
